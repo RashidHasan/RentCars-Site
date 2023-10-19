@@ -21,4 +21,4 @@ This HTML and CSS project demonstrates a strong grasp of web development princip
 
 Feel free to clone or download this project from the GitHub repository to explore the code, customize it to your needs, or use it as a foundation for your web development projects. Your feedback and contributions are welcome to further enhance this responsive website template.
 
-## Demo: https://rashidhasan.github.io/RentCars-Site/
+# Demo: https://rashidhasan.github.io/RentCars-Site/
